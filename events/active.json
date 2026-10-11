@@ -1,0 +1,57 @@
+{
+  "slug": "kochukattil-catering-and-event-management-kol",
+  "name": "Kochukattil Catering & Event Management",
+  "shortName": "Kochukattil",
+  "descriptor": "Catering & Events",
+  "address": "Chavara, Kollam, Keralam 691582",
+  "area": "Chavara",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691582",
+  "geo": {
+    "lat": 8.965888699999999,
+    "lng": 76.53325869999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=3711483831570862081",
+  "phone": "+91 98959 31110",
+  "whatsapp": "919895931110",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.9,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "name": "Rahul R",
+      "rating": 5,
+      "quote": "Third time working with you, and I'm loving it! You've taken care of the food department so seamlessly that I've had zero stress. The compliments from guests are all the proof I need – you're doing something right! Will definitely recommend you guys to others."
+    },
+    {
+      "name": "Ananthan s ajay",
+      "rating": 4,
+      "quote": "Big thanks to the Kochukattil Catering Team for making our event a grand success! The food was delicious, service was warm and professional, and every guest went home happy. Highly recommended"
+    },
+    {
+      "name": "sooraj suresh",
+      "rating": 5,
+      "quote": "Delicious food, flawless catering, and seamless event management! They made our celebration unforgettable – highly recommended!"
+    },
+    {
+      "name": "Vishnu sajeev",
+      "rating": 5,
+      "quote": "Excellent event management with smooth coordination, delicious food, and top-quality catering. Highly recommended!"
+    },
+    {
+      "name": "ANASWARA FEBY",
+      "rating": 5,
+      "quote": "Nice catering..... Food was great..... really enjoyed"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://kochukattil-catering-and-event-mana.vercel.app"
+}
